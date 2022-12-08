@@ -1,12 +1,10 @@
-/*
- * Program Author: Agbe Ayodele (AyzCoded)
- * file: the program is written in theC language
+/*Program Author:Agbe Ayodele (AyzCoded)
+ *File:4-puts.c contains the program text
  */
 #include <stdio.h>
-/*
- *main prints "Programming is like a multilinguak puzzle, and the a new line
+/*Main prints "Programming is like building a multilingual puzzle, amd then a new line.
  *
- *Return: Value always 0.
+ *Return: 0 always.
  */
 int main(void)
 {
