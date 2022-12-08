@@ -1,7 +1,6 @@
 /*
- * File: 4-puts.c
- * Author: Agbe Ayodele -AyzCoded
- */
+ *File: 4-puts.c
+ *Author: AyzCoded */
 #include <stdio.h>
 /*
  * Main prints the program text:
