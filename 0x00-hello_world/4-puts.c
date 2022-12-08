@@ -2,9 +2,7 @@
  * File: 4-puts.c
  * Author: Agbe Ayodele -AyzCoded
  */
-
 #include <stdio.h>
-
 /*
  * Main prints the program text:
  * "Programming is like building a multilingual
