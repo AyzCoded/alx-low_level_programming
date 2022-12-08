@@ -2,7 +2,8 @@
  *File:4-puts.c contains the program text
  */
 #include <stdio.h>
-/*Main prints "Programming is like building a multilingual puzzle, amd then a new line.
+/*Main prints "Programming is like building a multilingual puzzle,
+ *and then a new line
  *
  *Return: 0 always.
  */
