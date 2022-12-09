@@ -8,7 +8,7 @@
  */
 int main(void)
 /*
- *main prints to output
+ * main prints to output
  */
 {
 puts("\"Programming is like building a multilingual puzzle");
