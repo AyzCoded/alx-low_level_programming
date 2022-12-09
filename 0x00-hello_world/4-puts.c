@@ -1,11 +1,8 @@
-/*
- * Author: Agbe Ayodele
- */
 #include <stdio.h>
 /*
- * main - prints "Programming is like building a 
- *        multilinguak puzzle
- * return: always 0
+ * main - prints a text
+ *
+ * Return: Always 0
  */
 int main(void)
 {
