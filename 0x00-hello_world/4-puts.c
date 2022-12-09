@@ -2,7 +2,8 @@
  *main prints to output
  */
 #include <stdio.h>
-/* return always 0
+/*
+ *return always 0
  */
 int main(void)
 {
