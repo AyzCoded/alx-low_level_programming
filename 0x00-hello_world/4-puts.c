@@ -1,15 +1,13 @@
 /*
- *main prints to output
+ * Author: Agbe Ayodele
  */
 #include <stdio.h>
 /*
- * main - prints "Programming is like a multilingual puzzle"
+ * main - prints "Programming is like building a 
+ *        multilinguak puzzle
  * return: always 0
  */
 int main(void)
-/*
- * main prints to output
- */
 {
 puts("\"Programming is like building a multilingual puzzle");
 return (0);
