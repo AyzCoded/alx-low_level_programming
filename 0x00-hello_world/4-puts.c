@@ -3,7 +3,7 @@
  */
 #include <stdio.h>
 /*
- * main prints to output
+ * main - prints to output
  *return always 0
  */
 int main(void)
