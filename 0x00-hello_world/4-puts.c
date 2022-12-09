@@ -3,7 +3,7 @@
  */
 #include <stdio.h>
 /*
- * main - prints to output
+ * main - prints "Programming is like a multilingual puzzle"
  * return: always 0
  */
 int main(void)
