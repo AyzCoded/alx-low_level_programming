@@ -1,4 +1,4 @@
-#include <stdio.h>
+mp5#include <stdio.h>
 /**
  * main - Print the characters 0 - 9
  * separated with commas
@@ -7,8 +7,8 @@
  */
 int main(void)
 {
-int n = 0;
-while (n <= '9')
+int n;
+for (n = '0'; n <= 9; n++)
 {
 putchar(n);
 if (n != '9')
@@ -16,7 +16,6 @@ if (n != '9')
 putchar(',');
 putchar(' ');
 }
-n++;
 }
 putchar('\n');
 return (0);
