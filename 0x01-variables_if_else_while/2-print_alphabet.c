@@ -1,23 +1,18 @@
 #include <stdio.h>
+#include <unistd.h>
 /**
- * main - main block
- * Description: Use tge 'putchar' function to write the
- * alphabets in lower case
- *
- * return: always 0
+ * main - Entry point
+ * Description: prints the alphabet in lowercase\n
+ * Return: Always 0 (success)
  */
-
 int main(void)
-
 {
-char c = 'a';
+	int ch;
 
-while (c <= 'z')
-{
-putchar(c);
-c++;
-}
-putchar('\n');
-
+	for (ch = 'a'; ch <= 'z'; ch++)
+	{
+		putchar(ch);
+	}
+	putchar('\n');
 return (0);
 }
