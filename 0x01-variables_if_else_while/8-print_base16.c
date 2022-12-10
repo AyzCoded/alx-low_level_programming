@@ -1,0 +1,24 @@
+#include <stdio.h>
+/**
+ * main - prints the hezadecimal
+ * numbers 0123456789abcdef
+ *
+ * Return: 0 (success)
+ */
+int main(void)
+{
+int n = '0';
+char hexa = 'a';
+while (n <= '9')
+{
+putchar(n);
+n++;
+}
+while (hexa <= 'f')
+{
+putchar(hexa);
+hexa++;
+}
+putchar('\n');
+return (0);
+}
