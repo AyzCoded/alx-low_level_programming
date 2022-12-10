@@ -1,4 +1,4 @@
-mp5#include <stdio.h>
+#include <stdio.h>
 /**
  * main - Print the characters 0 - 9
  * separated with commas
