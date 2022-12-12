@@ -9,12 +9,12 @@
 
 int main(void)
 {
-int i = '0', j;
+int i , j;
 for (j = 0; j <= 100; j++)
 {
 for (i = j; i <= 100; i++)
 {
-if (j < i)
+if (i < j)
 {
 putchar(j / 10 + 48);
 putchar(j % 10 + 48);
