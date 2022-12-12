@@ -10,9 +10,9 @@
 int main(void)
 {
 int i = '0', j;
-for (j = 0; j <= 99; j++)
+for (j = 0; j <= 100; j++)
 {
-for (i = j; i <= 99; i++)
+for (i = j; i <= 100; i++)
 {
 if (i != j)
 {
