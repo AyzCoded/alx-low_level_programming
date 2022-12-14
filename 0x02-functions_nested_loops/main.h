@@ -9,9 +9,9 @@ int print_sign(int n);
 int _abs(int);
 int print_last_digit(int);
 void jack_bauer(void);
-void timea_table(void);
+void times_table(void);
 int add(int, int);
-void print_to_98);
-int putcharr(char c);
+void (print_to_98);
+int putchar(char c);
 
 #endif
