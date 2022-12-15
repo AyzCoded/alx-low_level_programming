@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- * main - something
- * Return: something
+ * main - code block
+ * Return: 0 success
  */
 
 int main(void)
