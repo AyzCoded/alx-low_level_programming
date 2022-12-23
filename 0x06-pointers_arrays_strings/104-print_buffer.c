@@ -33,7 +33,7 @@ putchar('.');
 }
 
 /**
- * print_buffern- prints a buffer
+ * print_buffer - prints a buffer
  * @b: buffer to print
  * @size: size of buffer
  *
