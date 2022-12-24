@@ -2,7 +2,7 @@
 int main(void)
 
 /**
- * main - code block
+ * main- code block
  * Return: zero (0)
  */
 
