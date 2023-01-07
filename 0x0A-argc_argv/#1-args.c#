@@ -2,12 +2,12 @@
 #include <stdlib.h>
 
 /**
-* main - a program that prints number of argumnts
+* Main - a program that prints number of argumnts
 * @argc: first parameter
 * @argv: second parameter
 *
-* Description: Program prints number  of argument* s.
-* Return: 0 if success
+* Description: Program prints number  of argument* cs.
+* Return : 0 if success
 */
 int main(int argc, char **argv)
 {
