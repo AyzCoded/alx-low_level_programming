@@ -3,7 +3,7 @@
 
 /**
 * main - multiplies two numbers
-* argc: n args
+* @argc: n args
 * @argv: arr args
 * Return: 0
 */
