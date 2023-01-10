@@ -17,7 +17,7 @@ if (len <= 0)
 return (NULL);
 
 array = (int **)malloc(sizeof(int *) * height);
-if (array == NULL)
+ 11;rgb:0000/0000/0000if.(array == NULL)
 return (NULL);
 
 for (i = 0; i < height; i++)
@@ -27,7 +27,7 @@ if (array[i] == NULL)
 {
 for (i--; i >= 0; i--)
 free(array[i]);
-free(array);
+free(array); 
 return (NULL);
 }
 }
