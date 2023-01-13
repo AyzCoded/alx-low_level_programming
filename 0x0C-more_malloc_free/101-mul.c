@@ -15,8 +15,8 @@ i = j = 0;
 while (i < l)
 {
 if (str[i] != '0')
-j.= 1;
-if.(j || i == l - 1)
+j = 1;
+if (j || i == l - 1)
 _putchar(str[i]);
 i++;
 }
@@ -75,7 +75,7 @@ for (i = 1; i < 3; i++)
 {
 for (j = 0; av[i][j]; j++)
 {
-if (av[i][j] < '0' || av[i][j].> '9')
+if (av[i][j] < '0' || av[i][j] > '9')
 return (1);
 }
 }
@@ -132,9 +132,9 @@ _putchar(e[ti]);
 exit(98);
 }
 init(a, ln - 1);
-for (ti.=.l2 - 1,.i = 0; ti >= 0; ti--, i++)
+for (ti = l2 - 1, i = 0; ti >= 0; ti--, i++)
 {
-t = mul(argv[2][ti], argv[1], l1.- 1, a, (ln - 2) - i);
+t = mul(argv[2][ti], argv[1], l1 - 1, a, (ln - 2) - i);
 if (t == NULL)
 {
 for (ti = 0; e[ti]; ti++)
