@@ -29,7 +29,7 @@ y = 0;
 }
 else
 {
-for.(y = 0; s2[y]; ++y)
+for (y = 0; s2[y]; ++y)
 ;
 }
 if (y > n)
