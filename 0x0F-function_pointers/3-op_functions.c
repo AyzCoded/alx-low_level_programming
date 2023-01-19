@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 /**
-* op_add - ayz
+* op_add - add operands
 * @a: ayz
 * @b: ayz
 *
@@ -15,7 +15,7 @@ return (a + b);
 }
 
 /**
-* op_sub - ayz
+* op_sub - subtract operands
 * @a: ayz
 * @b: ayz
 *
