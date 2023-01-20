@@ -43,7 +43,7 @@ return (a * b);
 * @a: first number
 * @b: second number
 *
-*.Return: integer division of a by b
+* Return: integer division of a by b
 */
 
 int op_div(int a, int b)
