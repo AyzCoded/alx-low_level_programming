@@ -3,11 +3,11 @@
 #include <stdio.h>
 
 /**
-* main - code block
-* @argc: argumebtc
-* @argv: argumentv
+* main - performs simple operations
+* @argc: number of arguments passed
+* @argv: array of pointers to arguments
 *
-* Return: anything
+* Return: always 0
 */
 int main(int argc, char *argv[])
 {

@@ -3,11 +3,11 @@
 #include <stdio.h>
 
 /**
-* op_add - add operands
-* @a: ayz
-* @b: ayz
+* op_add - add operands a and b
+* @a: first number
+* @b: second number
 *
-* Return: ayz
+* Return: sum of a and b
 */
 int op_add(int a, int b)
 {
