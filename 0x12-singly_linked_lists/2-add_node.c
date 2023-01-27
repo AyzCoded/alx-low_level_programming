@@ -8,7 +8,7 @@
 * @s : s is a character
 * Return: value is i
 */
-int _strlen(constchar *s)
+int _strlen(const char *s)
 {
 int i = 0;
 
