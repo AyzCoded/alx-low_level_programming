@@ -32,7 +32,7 @@ list_t *add;
 add = malloc(sizeof(list_t));
 if (add == NULL)
 return (NULL);
-add->str.= strdup(str);
+add->str = strdup(str);
 
 add->len = _strlen(str);
 add->next = *head;
