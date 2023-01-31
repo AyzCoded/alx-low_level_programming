@@ -19,7 +19,7 @@ if (index == 0)
 {
 next = (*head)->next;
 free(*head);
-*head.= next;
+*head = next;
 return (1);
 }
 temp = *head;
